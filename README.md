@@ -19,3 +19,9 @@
   - [5d.: Multitenancy (focus on how to run and test CAP apps in multitenancy mode)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/005d-Multitenancy-Specialist.md)
   - [5e.: Data Privacy & Data Security (focus on personal data management in CAP apps)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/005e-Data-Privacy-%26-Data-Security-Specialist.md)
   - [5f.: Architecture (very good overview of all affected topics)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/005f-Architecture-Specialist.md)
+
+- [6. Captain´s Skillset](https://github.com/msg-CareerPaths/SAP-CAP-Persona/tree/main/chapters/captains-skillset)
+
+  - [6. Captain´s Skillset (1/3)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/captains-skillset/006-Captains-Skillset-1.md)
+  - [6. Captain´s Skillset (2/3)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/captains-skillset/006-Captains-Skillset-2.md)
+  - [6. Captain´s Skillset (3/3)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/captains-skillset/006-Captains-Skillset-3.md)
