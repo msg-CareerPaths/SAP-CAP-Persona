@@ -29,8 +29,8 @@
 
 ---
 
-### [*Captain*´s Skillset](https://github.com/msg-CareerPaths/SAP-CAP-Persona/tree/main/chapters/002-captains-skillset)
+### [*Captain*´s Skillset](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/002-captains-skillset/006-Captains-Skillsets-Overview.md)
 
-- [Skillset (1/3)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/002-captains-skillset/006-Captains-Skillset-1.md)
-- [Skillset (2/3)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/002-captains-skillset/006-Captains-Skillset-2.md)
-- [Skillset (3/3)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/002-captains-skillset/006-Captains-Skillset-3.md)
+- [Skillset (1/3)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/002-captains-skillset/006a-Captains-Skillset-Nr-1.md)
+- [Skillset (2/3)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/002-captains-skillset/006b-Captains-Skillset-2.md)
+- [Skillset (3/3)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/002-captains-skillset/006c-Captains-Skillset-3.md)
