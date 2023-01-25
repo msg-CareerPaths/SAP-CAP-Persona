@@ -1,4 +1,4 @@
-# 3. Basics (not CAP-specific, see also other Personas)
+# 4. Basics (not CAP-specific, see also other Personas)
 
 ## git ([Official](https://git-scm.com/), [Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;))
 

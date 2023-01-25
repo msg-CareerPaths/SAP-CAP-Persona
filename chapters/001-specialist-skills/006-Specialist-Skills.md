@@ -1,16 +1,16 @@
-# 5. "Specialist" Skills
+# 6. "Specialist" Skills
 
-## [5a.: CAP (deep dive into CAP fundamentals and extensibility)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/005a-CAP-Specialist.md)
+## [6a.: CAP (deep dive into CAP fundamentals and extensibility)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/006a-CAP-Specialist.md)
 
-## [5b.: Security (major focus on security aspects and user authorization in CAP apps)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/005b-Security-Specialist.md)
+## [6b.: Security (major focus on security aspects and user authorization in CAP apps)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/006b-Security-Specialist.md)
 
-## [5c.: Extension (deep dive into Event Mesh and Extension Suite)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/005c-Extension-Specialist.md)
+## [6c.: Extension (deep dive into Event Mesh and Extension Suite)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/006c-Extension-Specialist.md)
 
-## [5d.: Multitenancy (focus on how to run and test CAP apps in multitenancy mode)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/005d-Multitenancy-Specialist.md)
+## [6d.: Multitenancy (focus on how to run and test CAP apps in multitenancy mode)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/006d-Multitenancy-Specialist.md)
 
-## [5e.: Data Privacy & Data Security (focus on personal data management in CAP apps)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/005e-Data-Privacy-%26-Data-Security-Specialist.md)
+## [6e.: Data Privacy & Data Security (focus on personal data management in CAP apps)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/006e-Data-Privacy-%26-Data-Security-Specialist.md)
 
-## [5f.: Architecture (very good overview of all affected topics)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/005f-Architecture-Specialist.md)
+## [6f.: Architecture (very good overview of all affected topics)](https://github.com/msg-CareerPaths/SAP-CAP-Persona/blob/main/chapters/specialist-skills/006f-Architecture-Specialist.md)
 
 ---
 

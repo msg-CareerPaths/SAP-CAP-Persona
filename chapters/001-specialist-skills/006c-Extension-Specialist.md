@@ -1,4 +1,4 @@
-# 5c. Extension Specialist
+# 6c. Extension Specialist
 
 The extension of modern CAP-based cloud-native applications with side-by-side extensions as well as in-app extensions is the topic of this specialization.
 

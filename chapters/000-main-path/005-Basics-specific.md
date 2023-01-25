@@ -1,4 +1,4 @@
-# 4. Basics (CAP-specific)
+# 5. Basics (CAP-specific)
 
 ## Get familiar with CAP by
 

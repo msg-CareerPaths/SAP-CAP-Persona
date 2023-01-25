@@ -1,4 +1,4 @@
-# 1. Getting a Mentor assigned
+# 2. Getting a Mentor assigned
 
 It is a **must-have** for an employee, who wants to become a *Captain*, to get support.
 Qualitative support, without long waiting times and without having fear to ask questions (incl. via remote call).

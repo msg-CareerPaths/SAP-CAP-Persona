@@ -1,4 +1,4 @@
-# 5b. Scurity Specialist
+# 6b. Scurity Specialist
 
 BTP allows for fine-grained security and user authorization configurations. It is crucial to have someone, who gets a quick idea about security aspects of BTP and CAP which can be obtained in this specialization.
 
