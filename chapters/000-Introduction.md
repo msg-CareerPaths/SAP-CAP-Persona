@@ -2,6 +2,8 @@
 
 ## Who is the *Captain*?
 
+![The Captain](/assets/The%20Captain.png)
+
 The *Captain* is new to the SAP world and very interested in cloud development.The *Captain* wants to focus on cloud application programming within S/4HANA and the BTP, therefore the **Captain** wants to get her/his hands dirty with the new Cloud Application Programming Model (*CAP*) and everything surrounding it.
 
 ## What is the *Captain* capable of?
@@ -10,7 +12,7 @@ When the *Captain* has finished the first three major steps of the given Learnin
 
 ## Why does msg need more *Captains*?
 
-For msg, it is important to have many developers that are *Captains*.As more and more applications run entirely in the cloud, CAP is *the skill* to invest for programming cloud-native applications. Upcoming projects that focus on cloud applications that run on the SAP BTP will be primarily implemented with CAP in the back-end, therefore it is crucial for msg to have a lot of *Captains*.
+For msg, it is important to have many developers that are *Captains*. As more and more applications run entirely in the cloud, CAP is *the skill* to invest for programming cloud-native applications. Upcoming projects that focus on cloud applications that run on the SAP BTP will be primarily implemented with CAP in the back-end, therefore it is crucial for msg to have a lot of *Captains*.
 
 ## Why do you want to become a *Captain*?
 
