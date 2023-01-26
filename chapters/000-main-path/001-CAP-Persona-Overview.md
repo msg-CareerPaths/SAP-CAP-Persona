@@ -2,7 +2,7 @@
 
 ## Who is the *Captain*?
 
-![The Captain](https://raw.githubusercontent.com/msg-CareerPaths/sap-cap-persona/main/assets/The_Captain.png)
+![The Captain](https://raw.githubusercontent.com/msg-CareerPaths/sap-cap-persona/main/assets/The-Captain.png)
 
 The *Captain* is new to the SAP world and very interested in cloud development.The *Captain* wants to focus on cloud application programming within S/4HANA and the BTP, therefore the *Captain* wants to get her/his hands dirty with the new Cloud Application Programming Model (*CAP*) and everything surrounding it.
 
