@@ -29,7 +29,7 @@
 
 ---
 
-### [*Captain*´s Skillset](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/002-captains-skillset/007-Captains-Skillsets-Overview.md)
+### [*Cap*tain´s Skillset](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/002-captains-skillset/007-Captains-Skillsets-Overview.md)
 
 - [Skillset (1/3)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/002-captains-skillset/007a-Captains-Skillset-Nr-1.md)
 - [Skillset (2/3)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/002-captains-skillset/007b-Captains-Skillset-Nr-2.md)
