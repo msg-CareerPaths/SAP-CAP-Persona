@@ -2,7 +2,7 @@
 
 ## Context, Learing Path and Skillset for SAP Captain Persona
 
-[**.msg | CareerPath**](https://msg-careerpaths.github.io/roadmap/#/) for the CAP-Persona
+[**.msg|CareerPath**](https://msg-careerpaths.github.io/roadmap/#/) for the CAP-Persona
 
 ---
 
