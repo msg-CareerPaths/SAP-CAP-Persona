@@ -1,4 +1,4 @@
-# Captain´s Skillset
+# *Cap*tain´s Skillset
 
 ## [*Cap*tain´s Skillset (1/3)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/002-captains-skillset/007a-Captains-Skillset-Nr-1.md)
 
