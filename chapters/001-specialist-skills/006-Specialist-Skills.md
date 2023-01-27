@@ -8,7 +8,7 @@
 
 ## [6d. Multitenancy (focus on how to run and test CAP apps in multitenancy mode)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/001-specialist-skills/006d-Multitenancy-Specialist.md)
 
-## [6e.: Data Privacy & Data Security (focus on personal data management in CAP apps)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/001-specialist-skills/006e-Data-Privacy-%26-Data-Security-Specialist.md)
+## [6e. Data Privacy & Data Security (focus on personal data management in CAP apps)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/001-specialist-skills/006e-Data-Privacy-%26-Data-Security-Specialist.md)
 
 ## [6f. Architecture (very good overview of all affected topics)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/001-specialist-skills/006f-Architecture-Specialist.md)
 
