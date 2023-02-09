@@ -8,9 +8,10 @@
 
 ## [Basics (not specific)](https://github.com/msg-CareerPaths/sap-cap-persona/tree/main/chapters/003-Basics-(not-specific))
 
-- [Basics (specific)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/004-Basics-specific.md)
 - [Git](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003a-Git.md)
 - [JSON](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003b-JSON.md)
 - [OData](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003c-OData.md)
 - [YAML](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003d-YAML.md)
 - [JavaScript/Node.js](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003e-JavaScript-Node.js.md)
+
+- [Basics (specific)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/004-Basics-specific.md)

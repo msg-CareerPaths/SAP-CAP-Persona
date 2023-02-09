@@ -21,7 +21,7 @@
 
 ---
 
-### ["Specialist" Skills](https://github.com/msg-CareerPaths/sap-cap-persona/tree/main/specialist-skills)
+## ["Specialist" Skills](https://github.com/msg-CareerPaths/sap-cap-persona/tree/main/specialist-skills)
 
 - [*CAP* (deep dive into *CAP* fundamentals and extensibility)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/specialist-skills/a-CAP-Specialist.md)
 - [Security (major focus on security aspects and user authorization in *CAP* apps)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/specialist-skills/b-Security-Specialist.md)
