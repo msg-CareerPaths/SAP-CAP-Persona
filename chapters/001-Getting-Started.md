@@ -1,4 +1,4 @@
-# 3. Getting Started
+# Getting Started
 
 ## Discover the [Business Technology Platform (BTP)](https://www.sap.com/germany/products/business-technology-platform.html) by
 

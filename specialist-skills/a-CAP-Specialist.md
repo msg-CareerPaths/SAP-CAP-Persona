@@ -1,4 +1,4 @@
-# 6a. CAP Specialist
+# CAP Specialist
 
 In the project it is important to have someone with a deep undestanding of CAP and BTP fundamentals.
 

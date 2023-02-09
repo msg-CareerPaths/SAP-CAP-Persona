@@ -1,4 +1,4 @@
-# 6d. Multitenancy Specialist
+# Multitenancy Specialist
 
 Multitenancy is the ability to serve multiple tenants (i.e., clients using SaaS solutions) through single clusters of micro service instances, while ensuring strict isolation with respect to tenants’ data and access to it. This specialization focuses on fundamental concepts of multitenancy, underpinning SaaS solutions in CAP.
 

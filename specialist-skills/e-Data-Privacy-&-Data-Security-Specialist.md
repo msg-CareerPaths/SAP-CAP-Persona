@@ -1,4 +1,4 @@
-# 6e. Data Privacy & Data Security Specialist
+# Data Privacy & Data Security Specialist
 
 It is important to have someone who focuses on data protection to make apps comply with data privacy regulations.
 
