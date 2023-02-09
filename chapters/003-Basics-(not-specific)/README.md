@@ -1,11 +1,11 @@
 # Basics (not CAP-specific, see also other Personas)
 
-## [git]()
+## [Git](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003a-Git.md)
 
-## [JSON]()
+## [JSON](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003b-JSON.md)
 
-## [OData]()
+## [OData](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003c-OData.md)
 
-## [YAML]()
+## [YAML](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003d-YAML.md)
 
-## [JavaScript/Node.js]()
+## [JavaScript/Node.js](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003e-JavaScript-Node.js.md)

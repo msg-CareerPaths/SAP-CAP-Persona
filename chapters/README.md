@@ -1,0 +1,16 @@
+# LearningPath
+
+## [Prerequisite: Getting a Mentor](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/000-Prerequisite-Geting-a-Mentor-assigned.md)
+
+## [Introduction to the CAP-Persona](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/001-Introduction-CAP-Persona.md)
+
+## [Getting Started](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/002-Getting-Started.md)
+
+## [Basics (not specific)](https://github.com/msg-CareerPaths/sap-cap-persona/tree/main/chapters/003-Basics-(not-specific))
+
+- [Basics (specific)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/004-Basics-specific.md)
+- [Git](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003a-Git.md)
+- [JSON](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003b-JSON.md)
+- [OData](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003c-OData.md)
+- [YAML](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003d-YAML.md)
+- [JavaScript/Node.js](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003e-JavaScript-Node.js.md)
