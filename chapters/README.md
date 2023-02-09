@@ -14,4 +14,4 @@
 - [YAML](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003d-YAML.md)
 - [JavaScript/Node.js](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/003-Basics-(not-specific)/003e-JavaScript-Node.js.md)
 
-- [Basics (specific)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/004-Basics-specific.md)
+## [Basics (specific)](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/004-Basics-specific.md)
