@@ -6,7 +6,7 @@
 
 ---
 
-## LearingPath
+## [LearingPath](https://github.com/msg-CareerPaths/sap-cap-persona/tree/main/chapters)
 
 - [Prerequisite: Getting a Mentor](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/000-Prerequisite-Geting-a-Mentor-assigned.md)
 - [Introduction to the CAP-Persona](https://github.com/msg-CareerPaths/sap-cap-persona/blob/main/chapters/001-Introduction-CAP-Persona.md)
