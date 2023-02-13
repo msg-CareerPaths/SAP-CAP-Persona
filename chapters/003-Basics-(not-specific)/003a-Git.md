@@ -1,6 +1,6 @@
 # Git
 
-[Official Documentation](https://git-scm.com/)
+[Official Website](https://git-scm.com/)
 
 [Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
 
