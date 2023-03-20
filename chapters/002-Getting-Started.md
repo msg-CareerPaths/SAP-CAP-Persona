@@ -13,5 +13,5 @@
 
 ## Set up your local development enviroment by
 
-- setting up [VS Code](https://developers.sap.com/tutorials/btp-app-set-up-local-development.html) (or by alternatively using SAP Business Application Studio in the BTP)
+- setting up [VS Code](https://developers.sap.com/tutorials/btp-app-prepare-dev-environment-cap.html) (or by alternatively using SAP Business Application Studio in the BTP)
 - Optional: VS Code with WSL2: [Setup of an local development enviroment for SAP BTP CF/CAP (github.com)](https://gist.github.com/MarcusSchoelzel/a0322e9a19ce9ef51971abe62616c119)
